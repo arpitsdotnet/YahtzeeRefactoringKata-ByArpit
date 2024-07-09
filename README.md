@@ -1,4 +1,7 @@
-# YahtzeeRefactoringKata-ByArpit
+# YahtzeeRefactoringKata
+
+The Original : https://github.com/marcoemrich/Refactoring-Katas/tree/master/Yahtzee
+
 This Refactoring Kata was designed by Jon Jagger and is available in his Cyber-Dojo.
 
 The other language translations have been contributed by:
